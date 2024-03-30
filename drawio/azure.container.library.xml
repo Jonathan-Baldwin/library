@@ -1,0 +1,93 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry y=\"9.237055564881302e-14\" width=\"200\" height=\"200\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;fillColor=none;strokeColor=#ffa806;dashed=1;strokeWidth=3;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"50\" width=\"200\" height=\"150\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Subscription\" style=\"image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;spacing=0;spacingLeft=10;spacingTop=2;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"30.99\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 200,
+    "aspect": "fixed",
+    "title": "Subscription"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"200\" height=\"200\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;fillColor=none;strokeColor=#ffa806;strokeWidth=3;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"50\" width=\"200\" height=\"150\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Subscription\" style=\"image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/general/Subscriptions.svg;spacing=0;spacingLeft=10;spacingTop=2;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"30.99\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 200,
+    "aspect": "fixed",
+    "title": "Subscription"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;opacity=50;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry y=\"-1.1368683772161603e-13\" width=\"200\" height=\"179.85000000000002\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;amp;nbsp;10.0.0.0/16&amp;amp;nbsp;\" style=\"rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;fillColor=#ccdddd;strokeColor=#1491df;dashed=1;strokeWidth=3;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=right;verticalAlign=bottom;spacing=0;spacingBottom=-10;spacingRight=10;labelBackgroundColor=default;opacity=50;labelBorderColor=#89bee6;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"29.850000000000023\" width=\"200\" height=\"150\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Virtual Network\" style=\"image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;spacingLeft=10;spacing=0;spacingTop=2;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"29.85\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 179.85000000000002,
+    "aspect": "fixed",
+    "title": "Virtual Network"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry y=\"-1.1368683772161603e-13\" width=\"200\" height=\"179.85000000000002\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;amp;nbsp;10.0.0.0/16&amp;amp;nbsp;\" style=\"rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;fillColor=#ccdddd;strokeColor=#1491df;strokeWidth=3;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=right;verticalAlign=bottom;spacing=0;spacingBottom=-11;spacingRight=10;labelBackgroundColor=default;opacity=50;labelBorderColor=#95c5ed;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"29.850000000000023\" width=\"200\" height=\"150\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Virtual Network\" style=\"image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;spacingLeft=10;spacing=0;spacingTop=2;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"29.85\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 179.85000000000002,
+    "aspect": "fixed",
+    "title": "Vitural Network"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"200\" height=\"179.94000000000005\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;amp;nbsp;10.0.1.0/24&amp;amp;nbsp;\" style=\"rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontSize=16;labelBackgroundColor=default;spacing=0;spacingRight=10;spacingBottom=-10;labelBorderColor=#81b365;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"29.940000000000055\" width=\"200\" height=\"150\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Public Subnet\" style=\"image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/networking/Subnet.svg;spacing=0;spacingTop=2;spacingLeft=10;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"29.94\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 179.94000000000005,
+    "aspect": "fixed",
+    "title": "Public Subnet"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"200\" height=\"179.94000000000005\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;amp;nbsp;10.0.1.0/24&amp;amp;nbsp;\" style=\"rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontSize=16;labelBackgroundColor=default;spacing=0;spacingRight=10;spacingBottom=-10;labelBorderColor=#81b365;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"29.940000000000055\" width=\"200\" height=\"150\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Public Subnet\" style=\"image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/networking/Subnet.svg;spacing=0;spacingTop=2;spacingLeft=10;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"29.94\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 179.94000000000005,
+    "aspect": "fixed",
+    "title": "Public Subnet"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"200\" height=\"179.94000000000005\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;amp;nbsp;10.0.1.0/24&amp;amp;nbsp;\" style=\"rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontSize=16;labelBackgroundColor=default;spacing=0;spacingRight=10;spacingBottom=-10;labelBorderColor=#b95450;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"29.940000000000055\" width=\"200\" height=\"150\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Private Subnet\" style=\"image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/networking/Subnet.svg;spacing=0;spacingTop=2;spacingLeft=10;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"29.94\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 179.94000000000005,
+    "aspect": "fixed",
+    "title": "Private Subnet"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry y=\"1.1368683772161603e-13\" width=\"200\" height=\"179.94000000000005\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;amp;nbsp;10.0.1.0/24&amp;amp;nbsp;\" style=\"rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontSize=16;labelBackgroundColor=default;spacing=0;spacingRight=10;spacingBottom=-10;labelBorderColor=#b95450;textShadow=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"29.940000000000055\" width=\"200\" height=\"150\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Private Subnet\" style=\"image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/networking/Subnet.svg;spacing=0;spacingTop=2;spacingLeft=10;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"29.94\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 179.94000000000005,
+    "aspect": "fixed",
+    "title": "Private Subnet"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"200\" height=\"179.94000000000005\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;amp;nbsp;10.0.1.0/24&amp;amp;nbsp;\" style=\"rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontSize=16;labelBackgroundColor=default;spacing=0;spacingRight=10;spacingBottom=-10;labelBorderColor=#6c8ebf;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"29.940000000000055\" width=\"200\" height=\"150\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Subnet\" style=\"image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/networking/Subnet.svg;spacing=0;spacingTop=2;spacingLeft=10;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"29.94\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 179.94000000000005,
+    "aspect": "fixed",
+    "title": "Subnet"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;fontSize=16;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry y=\"2.2737367544323206e-13\" width=\"200\" height=\"179.94000000000005\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;amp;nbsp;10.0.1.0/24&amp;amp;nbsp;\" style=\"rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;labelPosition=center;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontSize=16;labelBackgroundColor=default;spacing=0;spacingRight=10;spacingBottom=-10;labelBorderColor=#6c8ebf;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"29.940000000000055\" width=\"200\" height=\"150\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"Subnet\" style=\"image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/networking/Subnet.svg;spacing=0;spacingTop=2;spacingLeft=10;labelBackgroundColor=none;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"29.94\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 179.94000000000005,
+    "aspect": "fixed",
+    "title": "Subnet"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Public:Internet\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"200\" y=\"-8.526512829121202e-14\" as=\"targetPoint\"/&gt;&lt;mxPoint y=\"0.18181818181815856\" as=\"sourcePoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Public Dataflow"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Private:LAN\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"200\" y=\"8.526512829121202e-14\" as=\"targetPoint\"/&gt;&lt;mxPoint y=\"0.1818181818183291\" as=\"sourcePoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Private Dataflow"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Admin:Dev/PU\" style=\"edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"200\" y=\"-8.526512829121202e-14\" as=\"targetPoint\"/&gt;&lt;mxPoint y=\"0.18181818181815856\" as=\"sourcePoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Admin/PU Dataflow"
+  }
+]</mxlibrary>
