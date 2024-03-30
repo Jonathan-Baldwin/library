@@ -2,7 +2,7 @@
 
 ## Philosophy
 
-Each screen c an be decomposed into smaller components. Then those components may be able to decomposed into smaller components still. This procss can be repeated until the components are small enough to be testable and composable. When decomposing a component, you should aske the following questions:
+Each screen can be decomposed into smaller components. Then those components may be able to decomposed into smaller components still. This procss can be repeated until the components are small enough to be testable and composable. When decomposing a component, you should aske the following questions:
 
 - Can this component be decomposed into a smaller component?
 - What imputs/outputs/dependency injection is needed for this component to function
@@ -21,32 +21,6 @@ Draw.io/Diagrams.net is a diagram tool that can be addopted to do some design wo
 Draw.io allows single user installation. This is useful when you do not have admin access to a system. Navitate to <https://github.com/jgraph/drawio-desktop/releases/> then select `draw.io-<version>.msi`
 
 > Note: If you are not able to update Draw.io from within the application, you can return to the github location above and download the latest `.msi file` to install the latest version.
-
-### VsCode Extensions
-
-Here are some extensinos that can be useful for design tasks.
-
-<!-- TODO: Expand this list -->
-
-- Draw.io Intigration
-- SVG
-- Mermaid
-
-Extensions can be installed from the command line
-
-```bash
-# bash/Gitbash
-code --install <extension-1> <extension-2>
-
-# Example:
-code --install hediet.vscode-drawio jock.svg
-```
-
-or you can intall an ectension manually by using a extension's id in the search feild for vscode:
-
-```bash
-@id:Hediet.vscode-drawio @id:jock.svg
-```
 
 ### Naming
 

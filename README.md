@@ -46,3 +46,40 @@ Lunacy is a vector graphic design software for UI/UX and web design. Lunacy is c
 ├── scripts
 └── svg
 ```
+
+### VsCode Extensions
+
+Extensions can be installed from the command line
+
+```bash
+# bash/Gitbash
+code --install <extension-1> <extension-2>
+
+# Example:
+code --install hediet.vscode-drawio jock.svg
+```
+
+or you can intall an ectension manually by using a extension's id in the search feild for vscode:
+
+```bash
+@id:Hediet.vscode-drawio @id:jock.svg
+```
+
+Here are some extensinos that can be useful for design tasks.
+
+```json
+{
+  "recommendations": [
+    "jebbs.plantuml",
+    "jock.svg",
+    "tyriar.sort-lines",
+    "johnpapa.vscode-peacock",
+    "pkief.material-icon-theme",
+    "yzhang.markdown-all-in-one",
+    "hediet.vscode-drawio",
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+    "bierner.markdown-mermaid",
+    "editorconfig.editorconfig"
+  ]
+}
+```
