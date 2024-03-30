@@ -2,6 +2,7 @@ node_modules
 
 # Need to find a way to keep the azure icons easily accessible but not stored in the repo
 svg/azure
+svg/2024*
 
 # Drawio
 *.bkp

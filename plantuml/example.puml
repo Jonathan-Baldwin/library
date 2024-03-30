@@ -1,0 +1,8 @@
+@startuml
+
+participant another as a
+database db as b
+
+a -> b: hello
+
+@enduml
