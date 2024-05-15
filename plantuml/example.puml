@@ -1,4 +1,4 @@
-@startuml
+@startuml demo
 
 participant another as a
 database db as b
